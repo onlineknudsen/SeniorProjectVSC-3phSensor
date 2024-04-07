@@ -1,4 +1,4 @@
-View this project on [CADLAB.io](https://cadlab.io/project/28017). 
+View this project on [CADLAB.io](https://cadlab.io/project/28017).
 
 # Senior Project - Voltage Sourced Converter - 3 phase Power Sensor
 ### Lin Knudsen, Thomas Mack, Nikhil Patel
