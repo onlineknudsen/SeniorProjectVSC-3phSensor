@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "16.384MHz")(type "KiCad")(uri "${KIPRJMOD}/ABLS_16_384MHZ_B4_T")(options "")(descr ""))
+  (lib (name "ATM90E3")(type "KiCad")(uri "${KIPRJMOD}/ATM90E32AS_AU_R/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
