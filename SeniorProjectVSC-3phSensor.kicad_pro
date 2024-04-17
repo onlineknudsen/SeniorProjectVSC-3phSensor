@@ -224,7 +224,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -385,6 +385,18 @@
     [
       "92b98703-669a-49fb-bccd-3cc8cbdd124b",
       "Root"
+    ],
+    [
+      "9b2de24b-1bfe-43f2-ada5-097747419ce7",
+      "AC Current Sense"
+    ],
+    [
+      "8e860919-d53a-44a9-8fa5-93cb2d0217f7",
+      "AC Voltage Sense"
+    ],
+    [
+      "ef3b8b51-e9e1-444c-9195-06111c21df75",
+      "DC Sense"
     ]
   ],
   "text_variables": {}
